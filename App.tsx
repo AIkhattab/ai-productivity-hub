@@ -8,6 +8,7 @@ import { ProductivityChart } from './components/ProductivityChart';
 import { AIAdvisor } from './components/AIAdvisor';
 import { Workflow } from './components/Workflow';
 import { Footer } from './components/Footer';
+import { PredictionCard } from './components/PredictionCard';
 
 const App: React.FC = () => {
   return (
@@ -34,9 +35,10 @@ const App: React.FC = () => {
               <ProductivityChart />
             </div>
           </section>
-          
+
           <Workflow />
           <AIAdvisor />
+          <PredictionCard />
         </main>
         <Footer />
       </div>
