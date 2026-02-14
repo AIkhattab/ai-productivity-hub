@@ -1,0 +1,8 @@
+# ACTION REQUIRED: Authenticate Vercel
+
+The deployment script is waiting for you to authenticate with Vercel.
+
+1.  Open this URL in your browser: [https://vercel.com/oauth/device?user_code=SQVT-QQHS](https://vercel.com/oauth/device?user_code=SQVT-QQHS)
+2.  Follow the prompts to authorize the CLI.
+
+(GitHub authentication timed out, but Vercel deployment will proceed once authenticated.)
